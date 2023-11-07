@@ -18,6 +18,7 @@
 
 .topicos-item{
     margin: 2em 0.5em;
+    border-radius: 5px;
 }
 
 .topicos-link{
