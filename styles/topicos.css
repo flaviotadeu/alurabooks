@@ -28,5 +28,22 @@
     font-size: 14px;
     font-weight: 700;
     box-shadow: 5px 5px 10px var(--preto);
-    border-radius: 5px;
+    border-radius: 3px;
+}
+
+@media screen and (min-width: 1024px){
+    .topicos-titulo{
+        font-size: 24px;
+    }
+
+    .topicos-link{
+        font-size: 20px;
+        border-radius: 8px;
+    }
+}
+
+@media screen and (min-width: 1728px){
+    .topicos{
+        padding: 3em 30vw;
+    }
 }
