@@ -18,7 +18,6 @@
 
 .topicos-item{
     margin: 2em 0.5em;
-    border-radius: 5px;
 }
 
 .topicos-link{
@@ -29,4 +28,5 @@
     font-size: 14px;
     font-weight: 700;
     box-shadow: 5px 5px 10px var(--preto);
+    border-radius: 5px;
 }
